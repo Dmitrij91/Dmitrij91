@@ -1,4 +1,4 @@
-# Hey Folks, Welcome to my GitHub Workspace 
+Welcome to my GitHub Workspace 
 
 ![Hits](https://komarev.com/ghpvc/?username=Dmitrij91&color=blue)
 
