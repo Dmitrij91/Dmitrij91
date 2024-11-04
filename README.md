@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey Folks, Welcome to my GitHub Workspace 
 
-<!--
-**Dmitrij91/Dmitrij91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+## 🛠️ My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/dmitrij-sitenko-538bb6324/)
+- 📧 [Email](mailto:dmitrij.sitenko@iwr.uni-heidelberg.de)
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmitrij91&show_icons=true&theme=radical)
+
+> *"Your favorite quote or motto goes here!"*
+
