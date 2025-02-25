@@ -1,4 +1,6 @@
-Welcome to my GitHub Workspace 
+Hey, I am Dmitrij Sitenko and welcome to my GitHub Workspace.
+
+[Please have a look at my website and list of projects to learn more](https://www.dmitrijsitenko.com/projects)
 
 ![Hits](https://komarev.com/ghpvc/?username=Dmitrij91&color=blue)
 
